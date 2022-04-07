@@ -1,6 +1,6 @@
 // run this in the console of https://openai.com/dall-e-2/
 
-var allImages = document.getElementsByTagName("img");
+const allImages = document.getElementsByTagName("img");
 
 const sources = [];
 
