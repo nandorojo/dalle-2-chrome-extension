@@ -1,6 +1,6 @@
 # DALL-E Tab
 
-View a random image from DALL-E 2 by [OpenAI](https://openai.com) whenever you open a new tab on Chrome.
+View a random image from [OpenAI](https://openai.com)'s DALL-E 2 when you open a new tab.
 
 <img width="1655" alt="Screen Shot 2022-04-07 at 11 21 51 AM" src="https://user-images.githubusercontent.com/13172299/162236732-789f6866-7b6c-4c04-a4f4-64f9d275605d.png">
 
