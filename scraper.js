@@ -1,4 +1,4 @@
-// run this on in the console of https://openai.com/dall-e-2/
+// run this in the console of https://openai.com/dall-e-2/
 
 var allImages = document.getElementsByTagName("img");
 
